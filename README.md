@@ -15,11 +15,11 @@ Computer Science student at Kutaisi International University with a strong focus
 ---
 
 ### Competitive Programming
-**Codeforces:** **[dato_kv](https://codeforces.com/profile/dato_kv)** — **Expert (1730)**
+**Codeforces:** **[dato_kv](https://codeforces.com/profile/dato_kv)** — **Expert (1731)**
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dato_kv&theme=radical)](https://codeforces.com/profile/dato_kv)
 
-- Solved **500+** problems
+- Solved **100+** problems
 - Primary language: **C++**
 
 ---
@@ -54,5 +54,5 @@ Expected 2027 | GPA: 3.37/4.0
 
 Feel free to connect or check my repositories!
 
-📧 Email: [your email]  
+📧 Email: [dato123.kvartskhava@gmail.com]  
 📞 Phone: (+995) 599 02 33 37
