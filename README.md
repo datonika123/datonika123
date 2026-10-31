@@ -1,58 +1,49 @@
-# Hi there, I'm Davit Kvartskhava 👋
+Hi there, I'm Davit Kvartskhava 👋
 
-**Backend Developer & Competitive Programmer**  
-Tbilisi, Georgia
+Software Engineer · Algorithms & Math · Competitive Programmer Tbilisi, Georgia
 
----
+About Me
 
-### About Me
-Computer Science student at Kutaisi International University with a strong focus on **Backend Development** and **Algorithms**. Passionate about building scalable REST APIs and solving complex problems.
+Computer Science student at Kutaisi International University with a Minor in Mathematics focused on optimization. I like problems where algorithms and math meet real software: graph algorithms, numerical methods, and optimization, built into clean backend systems.
 
-- 🔭 Currently working on Spring Boot projects
-- 🌱 Learning advanced Spring Boot, PostgreSQL & system design
-- 💼 Open to **Junior Backend Developer** opportunities
+🔭 Currently building backend projects with Java & Spring Boot
+🌱 Learning optimization (linear programming), system design, and building with AI tools
+🤖 Using AI tools (Claude, ChatGPT) daily to design, build, and test software faster
+💼 Open to Software Engineering roles in backend, algorithms, or optimization
+Competitive Programming
 
----
+Codeforces: dato_kv, Expert
 
-### Competitive Programming
-**Codeforces:** **[dato_kv](https://codeforces.com/profile/dato_kv)** — **Expert (1731)**
+Codeforces Stats
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dato_kv&theme=radical)](https://codeforces.com/profile/dato_kv)
+Solved 500+ problems in Graph Theory, Dynamic Programming, and Number Theory
+Primary language: C++
+Featured Projects
 
-- Solved **100+** problems
-- Primary language: **C++**
+ODE Solver & Numerical Analysis Tool (Python) | View Repository
 
----
+Implicit numerical schemes (Backward Euler) for stiff systems of ODEs
+Newton–Gauss–Seidel and fixed-point iterations for nonlinear algebraic systems
+Visualized convergence rates and error propagation to test stability limits
 
-### Featured Projects
+Drone Swarm Dynamics Simulation (Python / C++) | View Repository
 
-**Task Manager REST API** | [View Repository](https://github.com/datonika123/task-manager-api)
-- Built with **Java + Spring Boot**
-- RESTful endpoints (CRUD), Swagger UI, JUnit 5 tests
-- Deployed on Railway
+Physics-based simulation of multiple autonomous agents (explicit Euler for trajectories)
+Canny Edge Detection implemented from scratch for obstacle recognition
 
-**Drone Swarm Dynamics Simulation** | [View Repository]
-- Physics simulation + Canny Edge Detection from scratch
+Task Manager REST API (Java / Spring Boot) | View Repository
 
-**ODE Solver & Numerical Analysis Tool**
+Full CRUD REST API with PostgreSQL / H2
+Swagger / OpenAPI documentation and JUnit 5 tests
+Deployed live on Railway
+Skills
+Languages: C++ (Advanced), Java (Advanced), Python, OCaml
+Math & Algorithms: Graph Algorithms, Dynamic Programming, Numerical Methods, ODEs, Linear Algebra, Optimization
+Backend: Spring Boot, REST APIs, Maven, JUnit 5
+Databases: PostgreSQL, H2, Cassandra
+Tools: Git, Docker, Linux, Swagger, LaTeX
+Education
 
----
+Kutaisi International University, BSc Computer Science (Minor in Mathematics) Expected 2027 · High Distinction in Mathematics, Algorithms, and Java programming courses
 
-### Skills
-- **Languages**: Java (Advanced), C++ (Advanced), Python
-- **Backend**: Spring Boot, REST APIs, Maven, JUnit 5
-- **Databases**: PostgreSQL, H2
-- **Tools**: Git, Docker, Linux, Swagger
-
----
-
-### Education
-**Kutaisi International University** — BSc Computer Science (Minor in Mathematics)  
-Expected 2027 | GPA: 3.37/4.0
-
----
-
-Feel free to connect or check my repositories!
-
-📧 Email: [dato123.kvartskhava@gmail.com]  
-📞 Phone: (+995) 599 02 33 37
+📧 dato123.kvartskhava@gmail.com
